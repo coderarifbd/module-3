@@ -1,0 +1,13 @@
+1. variable 
+2. Data type 
+3. string
+4. Loop 
+5. if & if else 
+6. Switch 
+7. do while 
+8. for ( Break & Continue )
+9. foreach 
+10. function 
+10.1 - Optional paramitter 
+10.2 - Unlimited paramenter 
+10.3 - Named argument
