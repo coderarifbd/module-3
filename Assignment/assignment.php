@@ -17,4 +17,4 @@ $sum = 0;
 for($i = 0; $i <= $num; $i++){
     $sum +=$i;
 }
-echo "0 To {$num} Summation is : {$sum}".PHP_EOL;
+echo "0 To {$num} summation of the series is : {$sum}".PHP_EOL;
